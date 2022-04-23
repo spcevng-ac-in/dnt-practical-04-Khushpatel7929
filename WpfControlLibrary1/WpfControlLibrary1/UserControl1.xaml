@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfControlLibrary1"
+             mc:Ignorable="d" d:DesignWidth="800" Height="498.98">
+    <Grid Margin="0,0,0,448.47">
+        <Button Content="BACK" HorizontalAlignment="Left" Height="40.51" Margin="10,0,0,0" VerticalAlignment="Top" Width="84.183"/>
+        <Button Content="FORWERD" HorizontalAlignment="Left" Height="40.51" Margin="122.449,0,0,0" VerticalAlignment="Top" Width="97.959"/>
+        <Button Content="HOME" HorizontalAlignment="Left" Height="40.51" Margin="243.367,0,0,0" VerticalAlignment="Top" Width="99.49"/>
+        <TextBox HorizontalAlignment="Left" Height="40.51" Margin="347.857,0,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="333.265"/>
+        <Button Content="GO!" HorizontalAlignment="Left" Height="40.51" Margin="705.612,0,0,0" VerticalAlignment="Top" Width="84.388"/>
+        <Path Data="M262.5,151.5 C616.5,60 571,-156.5 616,59.5 644.19181,194.82069 919.05921,246.54239 955.59481,262.98155 955.92995,263.13235 956.24503,263.28017 956.53968,263.42507 965.66208,267.91093 678.09157,159.60126 439.21106,85.80896 184.29894,7.0643539 -15.168568,-32.374401 260.5,146.49972 794.50014,492.99845 614.50017,231.9992 614.50017,231.9992 614.50017,231.9992 799.00023,348.99875 616.00017,218.49931 433.0001,87.999865 1286.5004,419.49844&#xD;&#xA;797.50023,341.49878" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="387.846" Margin="127.597,-33.305,-157.751,-304.031" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="830.154"/>
+        <Grid HorizontalAlignment="Left" Height="10.5" Margin="207,210,0,-169.99" VerticalAlignment="Top" Width="334.5"/>
+
+    </Grid>
+</UserControl>
